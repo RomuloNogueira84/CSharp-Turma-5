@@ -74,11 +74,11 @@ namespace Aula_20_05
 
             if (media >= 6)
             {
-                Console.WriteLine("Aprovado");
+                Console.WriteLine(" Meus parabens você foi Aprovado");
             }
             else
             {
-                Console.WriteLine("Reprovado");
+                Console.WriteLine(" Você foi Reprovado");
             }
         }
     }
