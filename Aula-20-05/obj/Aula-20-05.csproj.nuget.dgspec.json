@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05\\Aula-20-05.csproj": {}
+    "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05\\Aula-20-05.csproj": {
+    "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05\\Aula-20-05.csproj",
+        "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05.csproj",
         "projectName": "Aula-20-05",
-        "projectPath": "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05\\Aula-20-05.csproj",
+        "projectPath": "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05.csproj",
         "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\Aula-20-05\\obj\\",
+        "outputPath": "C:\\Users\\romul\\Desktop\\Estudos-TI\\C#\\Turma 5\\Aula-20-05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
